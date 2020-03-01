@@ -1,0 +1,15 @@
+{
+  "name": "smsauto",
+  "version": "1.0.0",
+  "description": "app to send sms automatically got from (https://www.freecodecamp.org/news/send-a-romantic-message-every-hour-to-your-valentine/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mikiPP",
+  "license": "MIT",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "twilio": "^3.39.5"
+  }
+}
